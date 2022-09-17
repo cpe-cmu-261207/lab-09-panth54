@@ -11,7 +11,7 @@ export default function contact() {
       <Navbar />
       <div className="container1">
         <h1>Contact</h1>
-        <div class="contact-container">
+        <div className="contact-container">
           <img src="images/profilepic.jpg" alt="" />
           <div className="contact-info">
             <p className="contact">
